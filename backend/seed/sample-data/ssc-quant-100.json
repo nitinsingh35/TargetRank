@@ -1,0 +1,2402 @@
+[
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 15%. If the cost price of the goods is Rs. 105, what is the marked price (Practice Question #1)?",
+    "options": [
+      "Rs. 134",
+      "Rs. 154",
+      "Rs. 119",
+      "Rs. 169"
+    ],
+    "correctAnswer": "Rs. 134",
+    "explanation": "Marked Price (MP) calculation: CP = 105, Profit = 15%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 134.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 20%. If the cost price of the goods is Rs. 110, what is the marked price (Practice Question #2)?",
+    "options": [
+      "Rs. 155",
+      "Rs. 175",
+      "Rs. 140",
+      "Rs. 190"
+    ],
+    "correctAnswer": "Rs. 155",
+    "explanation": "Marked Price (MP) calculation: CP = 110, Profit = 20%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 155.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 25%. If the cost price of the goods is Rs. 115, what is the marked price (Practice Question #3)?",
+    "options": [
+      "Rs. 151",
+      "Rs. 171",
+      "Rs. 136",
+      "Rs. 186"
+    ],
+    "correctAnswer": "Rs. 151",
+    "explanation": "Marked Price (MP) calculation: CP = 115, Profit = 25%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 151.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 30%. If the cost price of the goods is Rs. 120, what is the marked price (Practice Question #4)?",
+    "options": [
+      "Rs. 173",
+      "Rs. 193",
+      "Rs. 158",
+      "Rs. 208"
+    ],
+    "correctAnswer": "Rs. 173",
+    "explanation": "Marked Price (MP) calculation: CP = 120, Profit = 30%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 173.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 10%. If the cost price of the goods is Rs. 125, what is the marked price (Practice Question #5)?",
+    "options": [
+      "Rs. 162",
+      "Rs. 182",
+      "Rs. 147",
+      "Rs. 197"
+    ],
+    "correctAnswer": "Rs. 162",
+    "explanation": "Marked Price (MP) calculation: CP = 125, Profit = 10%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 162.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 15%. If the cost price of the goods is Rs. 130, what is the marked price (Practice Question #6)?",
+    "options": [
+      "Rs. 157",
+      "Rs. 177",
+      "Rs. 142",
+      "Rs. 192"
+    ],
+    "correctAnswer": "Rs. 157",
+    "explanation": "Marked Price (MP) calculation: CP = 130, Profit = 15%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 157.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 20%. If the cost price of the goods is Rs. 135, what is the marked price (Practice Question #7)?",
+    "options": [
+      "Rs. 180",
+      "Rs. 200",
+      "Rs. 165",
+      "Rs. 215"
+    ],
+    "correctAnswer": "Rs. 180",
+    "explanation": "Marked Price (MP) calculation: CP = 135, Profit = 20%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 180.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 25%. If the cost price of the goods is Rs. 140, what is the marked price (Practice Question #8)?",
+    "options": [
+      "Rs. 206",
+      "Rs. 226",
+      "Rs. 191",
+      "Rs. 241"
+    ],
+    "correctAnswer": "Rs. 206",
+    "explanation": "Marked Price (MP) calculation: CP = 140, Profit = 25%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 206.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 30%. If the cost price of the goods is Rs. 145, what is the marked price (Practice Question #9)?",
+    "options": [
+      "Rs. 198",
+      "Rs. 218",
+      "Rs. 183",
+      "Rs. 233"
+    ],
+    "correctAnswer": "Rs. 198",
+    "explanation": "Marked Price (MP) calculation: CP = 145, Profit = 30%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 198.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 10%. If the cost price of the goods is Rs. 150, what is the marked price (Practice Question #10)?",
+    "options": [
+      "Rs. 183",
+      "Rs. 203",
+      "Rs. 168",
+      "Rs. 218"
+    ],
+    "correctAnswer": "Rs. 183",
+    "explanation": "Marked Price (MP) calculation: CP = 150, Profit = 10%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 183.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 15%. If the cost price of the goods is Rs. 155, what is the marked price (Practice Question #11)?",
+    "options": [
+      "Rs. 210",
+      "Rs. 230",
+      "Rs. 195",
+      "Rs. 245"
+    ],
+    "correctAnswer": "Rs. 210",
+    "explanation": "Marked Price (MP) calculation: CP = 155, Profit = 15%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 210.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 20%. If the cost price of the goods is Rs. 160, what is the marked price (Practice Question #12)?",
+    "options": [
+      "Rs. 202",
+      "Rs. 222",
+      "Rs. 187",
+      "Rs. 237"
+    ],
+    "correctAnswer": "Rs. 202",
+    "explanation": "Marked Price (MP) calculation: CP = 160, Profit = 20%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 202.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 25%. If the cost price of the goods is Rs. 165, what is the marked price (Practice Question #13)?",
+    "options": [
+      "Rs. 229",
+      "Rs. 249",
+      "Rs. 214",
+      "Rs. 264"
+    ],
+    "correctAnswer": "Rs. 229",
+    "explanation": "Marked Price (MP) calculation: CP = 165, Profit = 25%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 229.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 30%. If the cost price of the goods is Rs. 170, what is the marked price (Practice Question #14)?",
+    "options": [
+      "Rs. 260",
+      "Rs. 280",
+      "Rs. 245",
+      "Rs. 295"
+    ],
+    "correctAnswer": "Rs. 260",
+    "explanation": "Marked Price (MP) calculation: CP = 170, Profit = 30%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 260.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 10%. If the cost price of the goods is Rs. 175, what is the marked price (Practice Question #15)?",
+    "options": [
+      "Rs. 203",
+      "Rs. 223",
+      "Rs. 188",
+      "Rs. 238"
+    ],
+    "correctAnswer": "Rs. 203",
+    "explanation": "Marked Price (MP) calculation: CP = 175, Profit = 10%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 203.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 15%. If the cost price of the goods is Rs. 180, what is the marked price (Practice Question #16)?",
+    "options": [
+      "Rs. 230",
+      "Rs. 250",
+      "Rs. 215",
+      "Rs. 265"
+    ],
+    "correctAnswer": "Rs. 230",
+    "explanation": "Marked Price (MP) calculation: CP = 180, Profit = 15%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 230.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 20%. If the cost price of the goods is Rs. 185, what is the marked price (Practice Question #17)?",
+    "options": [
+      "Rs. 261",
+      "Rs. 281",
+      "Rs. 246",
+      "Rs. 296"
+    ],
+    "correctAnswer": "Rs. 261",
+    "explanation": "Marked Price (MP) calculation: CP = 185, Profit = 20%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 261.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 25%. If the cost price of the goods is Rs. 190, what is the marked price (Practice Question #18)?",
+    "options": [
+      "Rs. 250",
+      "Rs. 270",
+      "Rs. 235",
+      "Rs. 285"
+    ],
+    "correctAnswer": "Rs. 250",
+    "explanation": "Marked Price (MP) calculation: CP = 190, Profit = 25%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 250.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 30%. If the cost price of the goods is Rs. 195, what is the marked price (Practice Question #19)?",
+    "options": [
+      "Rs. 282",
+      "Rs. 302",
+      "Rs. 267",
+      "Rs. 317"
+    ],
+    "correctAnswer": "Rs. 282",
+    "explanation": "Marked Price (MP) calculation: CP = 195, Profit = 30%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 282.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 10%. If the cost price of the goods is Rs. 200, what is the marked price (Practice Question #20)?",
+    "options": [
+      "Rs. 259",
+      "Rs. 279",
+      "Rs. 244",
+      "Rs. 294"
+    ],
+    "correctAnswer": "Rs. 259",
+    "explanation": "Marked Price (MP) calculation: CP = 200, Profit = 10%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 259.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 15%. If the cost price of the goods is Rs. 205, what is the marked price (Practice Question #21)?",
+    "options": [
+      "Rs. 248",
+      "Rs. 268",
+      "Rs. 233",
+      "Rs. 283"
+    ],
+    "correctAnswer": "Rs. 248",
+    "explanation": "Marked Price (MP) calculation: CP = 205, Profit = 15%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 248.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 20%. If the cost price of the goods is Rs. 210, what is the marked price (Practice Question #22)?",
+    "options": [
+      "Rs. 280",
+      "Rs. 300",
+      "Rs. 265",
+      "Rs. 315"
+    ],
+    "correctAnswer": "Rs. 280",
+    "explanation": "Marked Price (MP) calculation: CP = 210, Profit = 20%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 280.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 25%. If the cost price of the goods is Rs. 215, what is the marked price (Practice Question #23)?",
+    "options": [
+      "Rs. 316",
+      "Rs. 336",
+      "Rs. 301",
+      "Rs. 351"
+    ],
+    "correctAnswer": "Rs. 316",
+    "explanation": "Marked Price (MP) calculation: CP = 215, Profit = 25%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 316.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 30%. If the cost price of the goods is Rs. 220, what is the marked price (Practice Question #24)?",
+    "options": [
+      "Rs. 301",
+      "Rs. 321",
+      "Rs. 286",
+      "Rs. 336"
+    ],
+    "correctAnswer": "Rs. 301",
+    "explanation": "Marked Price (MP) calculation: CP = 220, Profit = 30%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 301.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 10%. If the cost price of the goods is Rs. 225, what is the marked price (Practice Question #25)?",
+    "options": [
+      "Rs. 275",
+      "Rs. 295",
+      "Rs. 260",
+      "Rs. 310"
+    ],
+    "correctAnswer": "Rs. 275",
+    "explanation": "Marked Price (MP) calculation: CP = 225, Profit = 10%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 275.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 15%. If the cost price of the goods is Rs. 230, what is the marked price (Practice Question #26)?",
+    "options": [
+      "Rs. 311",
+      "Rs. 331",
+      "Rs. 296",
+      "Rs. 346"
+    ],
+    "correctAnswer": "Rs. 311",
+    "explanation": "Marked Price (MP) calculation: CP = 230, Profit = 15%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 311.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 20%. If the cost price of the goods is Rs. 235, what is the marked price (Practice Question #27)?",
+    "options": [
+      "Rs. 297",
+      "Rs. 317",
+      "Rs. 282",
+      "Rs. 332"
+    ],
+    "correctAnswer": "Rs. 297",
+    "explanation": "Marked Price (MP) calculation: CP = 235, Profit = 20%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 297.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 25%. If the cost price of the goods is Rs. 240, what is the marked price (Practice Question #28)?",
+    "options": [
+      "Rs. 333",
+      "Rs. 353",
+      "Rs. 318",
+      "Rs. 368"
+    ],
+    "correctAnswer": "Rs. 333",
+    "explanation": "Marked Price (MP) calculation: CP = 240, Profit = 25%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 333.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 30%. If the cost price of the goods is Rs. 245, what is the marked price (Practice Question #29)?",
+    "options": [
+      "Rs. 375",
+      "Rs. 395",
+      "Rs. 360",
+      "Rs. 410"
+    ],
+    "correctAnswer": "Rs. 375",
+    "explanation": "Marked Price (MP) calculation: CP = 245, Profit = 30%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 375.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 10%. If the cost price of the goods is Rs. 250, what is the marked price (Practice Question #30)?",
+    "options": [
+      "Rs. 289",
+      "Rs. 309",
+      "Rs. 274",
+      "Rs. 324"
+    ],
+    "correctAnswer": "Rs. 289",
+    "explanation": "Marked Price (MP) calculation: CP = 250, Profit = 10%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 289.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 15%. If the cost price of the goods is Rs. 255, what is the marked price (Practice Question #31)?",
+    "options": [
+      "Rs. 326",
+      "Rs. 346",
+      "Rs. 311",
+      "Rs. 361"
+    ],
+    "correctAnswer": "Rs. 326",
+    "explanation": "Marked Price (MP) calculation: CP = 255, Profit = 15%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 326.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 20%. If the cost price of the goods is Rs. 260, what is the marked price (Practice Question #32)?",
+    "options": [
+      "Rs. 367",
+      "Rs. 387",
+      "Rs. 352",
+      "Rs. 402"
+    ],
+    "correctAnswer": "Rs. 367",
+    "explanation": "Marked Price (MP) calculation: CP = 260, Profit = 20%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 367.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 25%. If the cost price of the goods is Rs. 265, what is the marked price (Practice Question #33)?",
+    "options": [
+      "Rs. 349",
+      "Rs. 369",
+      "Rs. 334",
+      "Rs. 384"
+    ],
+    "correctAnswer": "Rs. 349",
+    "explanation": "Marked Price (MP) calculation: CP = 265, Profit = 25%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 349.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 30%. If the cost price of the goods is Rs. 270, what is the marked price (Practice Question #34)?",
+    "options": [
+      "Rs. 390",
+      "Rs. 410",
+      "Rs. 375",
+      "Rs. 425"
+    ],
+    "correctAnswer": "Rs. 390",
+    "explanation": "Marked Price (MP) calculation: CP = 270, Profit = 30%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 390.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 10%. If the cost price of the goods is Rs. 275, what is the marked price (Practice Question #35)?",
+    "options": [
+      "Rs. 356",
+      "Rs. 376",
+      "Rs. 341",
+      "Rs. 391"
+    ],
+    "correctAnswer": "Rs. 356",
+    "explanation": "Marked Price (MP) calculation: CP = 275, Profit = 10%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 356.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 15%. If the cost price of the goods is Rs. 280, what is the marked price (Practice Question #36)?",
+    "options": [
+      "Rs. 339",
+      "Rs. 359",
+      "Rs. 324",
+      "Rs. 374"
+    ],
+    "correctAnswer": "Rs. 339",
+    "explanation": "Marked Price (MP) calculation: CP = 280, Profit = 15%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 339.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 20%. If the cost price of the goods is Rs. 285, what is the marked price (Practice Question #37)?",
+    "options": [
+      "Rs. 380",
+      "Rs. 400",
+      "Rs. 365",
+      "Rs. 415"
+    ],
+    "correctAnswer": "Rs. 380",
+    "explanation": "Marked Price (MP) calculation: CP = 285, Profit = 20%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 380.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 25%. If the cost price of the goods is Rs. 290, what is the marked price (Practice Question #38)?",
+    "options": [
+      "Rs. 426",
+      "Rs. 446",
+      "Rs. 411",
+      "Rs. 461"
+    ],
+    "correctAnswer": "Rs. 426",
+    "explanation": "Marked Price (MP) calculation: CP = 290, Profit = 25%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 426.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 30%. If the cost price of the goods is Rs. 295, what is the marked price (Practice Question #39)?",
+    "options": [
+      "Rs. 404",
+      "Rs. 424",
+      "Rs. 389",
+      "Rs. 439"
+    ],
+    "correctAnswer": "Rs. 404",
+    "explanation": "Marked Price (MP) calculation: CP = 295, Profit = 30%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 404.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 10%. If the cost price of the goods is Rs. 300, what is the marked price (Practice Question #40)?",
+    "options": [
+      "Rs. 367",
+      "Rs. 387",
+      "Rs. 352",
+      "Rs. 402"
+    ],
+    "correctAnswer": "Rs. 367",
+    "explanation": "Marked Price (MP) calculation: CP = 300, Profit = 10%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 367.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 15%. If the cost price of the goods is Rs. 305, what is the marked price (Practice Question #41)?",
+    "options": [
+      "Rs. 413",
+      "Rs. 433",
+      "Rs. 398",
+      "Rs. 448"
+    ],
+    "correctAnswer": "Rs. 413",
+    "explanation": "Marked Price (MP) calculation: CP = 305, Profit = 15%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 413.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 20%. If the cost price of the goods is Rs. 310, what is the marked price (Practice Question #42)?",
+    "options": [
+      "Rs. 392",
+      "Rs. 412",
+      "Rs. 377",
+      "Rs. 427"
+    ],
+    "correctAnswer": "Rs. 392",
+    "explanation": "Marked Price (MP) calculation: CP = 310, Profit = 20%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 392.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 25%. If the cost price of the goods is Rs. 315, what is the marked price (Practice Question #43)?",
+    "options": [
+      "Rs. 438",
+      "Rs. 458",
+      "Rs. 423",
+      "Rs. 473"
+    ],
+    "correctAnswer": "Rs. 438",
+    "explanation": "Marked Price (MP) calculation: CP = 315, Profit = 25%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 438.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 30%. If the cost price of the goods is Rs. 320, what is the marked price (Practice Question #44)?",
+    "options": [
+      "Rs. 489",
+      "Rs. 509",
+      "Rs. 474",
+      "Rs. 524"
+    ],
+    "correctAnswer": "Rs. 489",
+    "explanation": "Marked Price (MP) calculation: CP = 320, Profit = 30%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 489.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 10%. If the cost price of the goods is Rs. 325, what is the marked price (Practice Question #45)?",
+    "options": [
+      "Rs. 376",
+      "Rs. 396",
+      "Rs. 361",
+      "Rs. 411"
+    ],
+    "correctAnswer": "Rs. 376",
+    "explanation": "Marked Price (MP) calculation: CP = 325, Profit = 10%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 376.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 15%. If the cost price of the goods is Rs. 330, what is the marked price (Practice Question #46)?",
+    "options": [
+      "Rs. 422",
+      "Rs. 442",
+      "Rs. 407",
+      "Rs. 457"
+    ],
+    "correctAnswer": "Rs. 422",
+    "explanation": "Marked Price (MP) calculation: CP = 330, Profit = 15%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 422.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 20%. If the cost price of the goods is Rs. 335, what is the marked price (Practice Question #47)?",
+    "options": [
+      "Rs. 473",
+      "Rs. 493",
+      "Rs. 458",
+      "Rs. 508"
+    ],
+    "correctAnswer": "Rs. 473",
+    "explanation": "Marked Price (MP) calculation: CP = 335, Profit = 20%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 473.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 25%. If the cost price of the goods is Rs. 340, what is the marked price (Practice Question #48)?",
+    "options": [
+      "Rs. 447",
+      "Rs. 467",
+      "Rs. 432",
+      "Rs. 482"
+    ],
+    "correctAnswer": "Rs. 447",
+    "explanation": "Marked Price (MP) calculation: CP = 340, Profit = 25%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 447.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 30%. If the cost price of the goods is Rs. 345, what is the marked price (Practice Question #49)?",
+    "options": [
+      "Rs. 498",
+      "Rs. 518",
+      "Rs. 483",
+      "Rs. 533"
+    ],
+    "correctAnswer": "Rs. 498",
+    "explanation": "Marked Price (MP) calculation: CP = 345, Profit = 30%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 498.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 10%. If the cost price of the goods is Rs. 350, what is the marked price (Practice Question #50)?",
+    "options": [
+      "Rs. 453",
+      "Rs. 473",
+      "Rs. 438",
+      "Rs. 488"
+    ],
+    "correctAnswer": "Rs. 453",
+    "explanation": "Marked Price (MP) calculation: CP = 350, Profit = 10%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 453.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 15%. If the cost price of the goods is Rs. 355, what is the marked price (Practice Question #51)?",
+    "options": [
+      "Rs. 430",
+      "Rs. 450",
+      "Rs. 415",
+      "Rs. 465"
+    ],
+    "correctAnswer": "Rs. 430",
+    "explanation": "Marked Price (MP) calculation: CP = 355, Profit = 15%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 430.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 20%. If the cost price of the goods is Rs. 360, what is the marked price (Practice Question #52)?",
+    "options": [
+      "Rs. 480",
+      "Rs. 500",
+      "Rs. 465",
+      "Rs. 515"
+    ],
+    "correctAnswer": "Rs. 480",
+    "explanation": "Marked Price (MP) calculation: CP = 360, Profit = 20%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 480.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 25%. If the cost price of the goods is Rs. 365, what is the marked price (Practice Question #53)?",
+    "options": [
+      "Rs. 537",
+      "Rs. 557",
+      "Rs. 522",
+      "Rs. 572"
+    ],
+    "correctAnswer": "Rs. 537",
+    "explanation": "Marked Price (MP) calculation: CP = 365, Profit = 25%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 537.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 30%. If the cost price of the goods is Rs. 370, what is the marked price (Practice Question #54)?",
+    "options": [
+      "Rs. 506",
+      "Rs. 526",
+      "Rs. 491",
+      "Rs. 541"
+    ],
+    "correctAnswer": "Rs. 506",
+    "explanation": "Marked Price (MP) calculation: CP = 370, Profit = 30%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 506.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 10%. If the cost price of the goods is Rs. 375, what is the marked price (Practice Question #55)?",
+    "options": [
+      "Rs. 458",
+      "Rs. 478",
+      "Rs. 443",
+      "Rs. 493"
+    ],
+    "correctAnswer": "Rs. 458",
+    "explanation": "Marked Price (MP) calculation: CP = 375, Profit = 10%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 458.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 15%. If the cost price of the goods is Rs. 380, what is the marked price (Practice Question #56)?",
+    "options": [
+      "Rs. 514",
+      "Rs. 534",
+      "Rs. 499",
+      "Rs. 549"
+    ],
+    "correctAnswer": "Rs. 514",
+    "explanation": "Marked Price (MP) calculation: CP = 380, Profit = 15%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 514.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 20%. If the cost price of the goods is Rs. 385, what is the marked price (Practice Question #57)?",
+    "options": [
+      "Rs. 486",
+      "Rs. 506",
+      "Rs. 471",
+      "Rs. 521"
+    ],
+    "correctAnswer": "Rs. 486",
+    "explanation": "Marked Price (MP) calculation: CP = 385, Profit = 20%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 486.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 25%. If the cost price of the goods is Rs. 390, what is the marked price (Practice Question #58)?",
+    "options": [
+      "Rs. 542",
+      "Rs. 562",
+      "Rs. 527",
+      "Rs. 577"
+    ],
+    "correctAnswer": "Rs. 542",
+    "explanation": "Marked Price (MP) calculation: CP = 390, Profit = 25%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 542.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 30%. If the cost price of the goods is Rs. 395, what is the marked price (Practice Question #59)?",
+    "options": [
+      "Rs. 604",
+      "Rs. 624",
+      "Rs. 589",
+      "Rs. 639"
+    ],
+    "correctAnswer": "Rs. 604",
+    "explanation": "Marked Price (MP) calculation: CP = 395, Profit = 30%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 604.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 10%. If the cost price of the goods is Rs. 400, what is the marked price (Practice Question #60)?",
+    "options": [
+      "Rs. 463",
+      "Rs. 483",
+      "Rs. 448",
+      "Rs. 498"
+    ],
+    "correctAnswer": "Rs. 463",
+    "explanation": "Marked Price (MP) calculation: CP = 400, Profit = 10%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 463.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 15%. If the cost price of the goods is Rs. 405, what is the marked price (Practice Question #61)?",
+    "options": [
+      "Rs. 518",
+      "Rs. 538",
+      "Rs. 503",
+      "Rs. 553"
+    ],
+    "correctAnswer": "Rs. 518",
+    "explanation": "Marked Price (MP) calculation: CP = 405, Profit = 15%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 518.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 20%. If the cost price of the goods is Rs. 410, what is the marked price (Practice Question #62)?",
+    "options": [
+      "Rs. 579",
+      "Rs. 599",
+      "Rs. 564",
+      "Rs. 614"
+    ],
+    "correctAnswer": "Rs. 579",
+    "explanation": "Marked Price (MP) calculation: CP = 410, Profit = 20%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 579.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 25%. If the cost price of the goods is Rs. 415, what is the marked price (Practice Question #63)?",
+    "options": [
+      "Rs. 546",
+      "Rs. 566",
+      "Rs. 531",
+      "Rs. 581"
+    ],
+    "correctAnswer": "Rs. 546",
+    "explanation": "Marked Price (MP) calculation: CP = 415, Profit = 25%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 546.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 30%. If the cost price of the goods is Rs. 420, what is the marked price (Practice Question #64)?",
+    "options": [
+      "Rs. 607",
+      "Rs. 627",
+      "Rs. 592",
+      "Rs. 642"
+    ],
+    "correctAnswer": "Rs. 607",
+    "explanation": "Marked Price (MP) calculation: CP = 420, Profit = 30%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 607.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 10%. If the cost price of the goods is Rs. 425, what is the marked price (Practice Question #65)?",
+    "options": [
+      "Rs. 550",
+      "Rs. 570",
+      "Rs. 535",
+      "Rs. 585"
+    ],
+    "correctAnswer": "Rs. 550",
+    "explanation": "Marked Price (MP) calculation: CP = 425, Profit = 10%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 550.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 15%. If the cost price of the goods is Rs. 430, what is the marked price (Practice Question #66)?",
+    "options": [
+      "Rs. 521",
+      "Rs. 541",
+      "Rs. 506",
+      "Rs. 556"
+    ],
+    "correctAnswer": "Rs. 521",
+    "explanation": "Marked Price (MP) calculation: CP = 430, Profit = 15%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 521.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 20%. If the cost price of the goods is Rs. 435, what is the marked price (Practice Question #67)?",
+    "options": [
+      "Rs. 580",
+      "Rs. 600",
+      "Rs. 565",
+      "Rs. 615"
+    ],
+    "correctAnswer": "Rs. 580",
+    "explanation": "Marked Price (MP) calculation: CP = 435, Profit = 20%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 580.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 25%. If the cost price of the goods is Rs. 440, what is the marked price (Practice Question #68)?",
+    "options": [
+      "Rs. 647",
+      "Rs. 667",
+      "Rs. 632",
+      "Rs. 682"
+    ],
+    "correctAnswer": "Rs. 647",
+    "explanation": "Marked Price (MP) calculation: CP = 440, Profit = 25%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 647.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 30%. If the cost price of the goods is Rs. 445, what is the marked price (Practice Question #69)?",
+    "options": [
+      "Rs. 609",
+      "Rs. 629",
+      "Rs. 594",
+      "Rs. 644"
+    ],
+    "correctAnswer": "Rs. 609",
+    "explanation": "Marked Price (MP) calculation: CP = 445, Profit = 30%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 609.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 10%. If the cost price of the goods is Rs. 450, what is the marked price (Practice Question #70)?",
+    "options": [
+      "Rs. 550",
+      "Rs. 570",
+      "Rs. 535",
+      "Rs. 585"
+    ],
+    "correctAnswer": "Rs. 550",
+    "explanation": "Marked Price (MP) calculation: CP = 450, Profit = 10%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 550.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 15%. If the cost price of the goods is Rs. 455, what is the marked price (Practice Question #71)?",
+    "options": [
+      "Rs. 616",
+      "Rs. 636",
+      "Rs. 601",
+      "Rs. 651"
+    ],
+    "correctAnswer": "Rs. 616",
+    "explanation": "Marked Price (MP) calculation: CP = 455, Profit = 15%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 616.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 20%. If the cost price of the goods is Rs. 460, what is the marked price (Practice Question #72)?",
+    "options": [
+      "Rs. 581",
+      "Rs. 601",
+      "Rs. 566",
+      "Rs. 616"
+    ],
+    "correctAnswer": "Rs. 581",
+    "explanation": "Marked Price (MP) calculation: CP = 460, Profit = 20%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 581.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 25%. If the cost price of the goods is Rs. 465, what is the marked price (Practice Question #73)?",
+    "options": [
+      "Rs. 646",
+      "Rs. 666",
+      "Rs. 631",
+      "Rs. 681"
+    ],
+    "correctAnswer": "Rs. 646",
+    "explanation": "Marked Price (MP) calculation: CP = 465, Profit = 25%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 646.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 30%. If the cost price of the goods is Rs. 470, what is the marked price (Practice Question #74)?",
+    "options": [
+      "Rs. 719",
+      "Rs. 739",
+      "Rs. 704",
+      "Rs. 754"
+    ],
+    "correctAnswer": "Rs. 719",
+    "explanation": "Marked Price (MP) calculation: CP = 470, Profit = 30%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 719.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 10%. If the cost price of the goods is Rs. 475, what is the marked price (Practice Question #75)?",
+    "options": [
+      "Rs. 550",
+      "Rs. 570",
+      "Rs. 535",
+      "Rs. 585"
+    ],
+    "correctAnswer": "Rs. 550",
+    "explanation": "Marked Price (MP) calculation: CP = 475, Profit = 10%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 550.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 15%. If the cost price of the goods is Rs. 480, what is the marked price (Practice Question #76)?",
+    "options": [
+      "Rs. 613",
+      "Rs. 633",
+      "Rs. 598",
+      "Rs. 648"
+    ],
+    "correctAnswer": "Rs. 613",
+    "explanation": "Marked Price (MP) calculation: CP = 480, Profit = 15%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 613.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 20%. If the cost price of the goods is Rs. 485, what is the marked price (Practice Question #77)?",
+    "options": [
+      "Rs. 685",
+      "Rs. 705",
+      "Rs. 670",
+      "Rs. 720"
+    ],
+    "correctAnswer": "Rs. 685",
+    "explanation": "Marked Price (MP) calculation: CP = 485, Profit = 20%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 685.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 25%. If the cost price of the goods is Rs. 490, what is the marked price (Practice Question #78)?",
+    "options": [
+      "Rs. 645",
+      "Rs. 665",
+      "Rs. 630",
+      "Rs. 680"
+    ],
+    "correctAnswer": "Rs. 645",
+    "explanation": "Marked Price (MP) calculation: CP = 490, Profit = 25%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 645.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 30%. If the cost price of the goods is Rs. 495, what is the marked price (Practice Question #79)?",
+    "options": [
+      "Rs. 715",
+      "Rs. 735",
+      "Rs. 700",
+      "Rs. 750"
+    ],
+    "correctAnswer": "Rs. 715",
+    "explanation": "Marked Price (MP) calculation: CP = 495, Profit = 30%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 715.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 10%. If the cost price of the goods is Rs. 500, what is the marked price (Practice Question #80)?",
+    "options": [
+      "Rs. 647",
+      "Rs. 667",
+      "Rs. 632",
+      "Rs. 682"
+    ],
+    "correctAnswer": "Rs. 647",
+    "explanation": "Marked Price (MP) calculation: CP = 500, Profit = 10%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 647.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 15%. If the cost price of the goods is Rs. 505, what is the marked price (Practice Question #81)?",
+    "options": [
+      "Rs. 611",
+      "Rs. 631",
+      "Rs. 596",
+      "Rs. 646"
+    ],
+    "correctAnswer": "Rs. 611",
+    "explanation": "Marked Price (MP) calculation: CP = 505, Profit = 15%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 611.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 20%. If the cost price of the goods is Rs. 510, what is the marked price (Practice Question #82)?",
+    "options": [
+      "Rs. 680",
+      "Rs. 700",
+      "Rs. 665",
+      "Rs. 715"
+    ],
+    "correctAnswer": "Rs. 680",
+    "explanation": "Marked Price (MP) calculation: CP = 510, Profit = 20%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 680.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 25%. If the cost price of the goods is Rs. 515, what is the marked price (Practice Question #83)?",
+    "options": [
+      "Rs. 757",
+      "Rs. 777",
+      "Rs. 742",
+      "Rs. 792"
+    ],
+    "correctAnswer": "Rs. 757",
+    "explanation": "Marked Price (MP) calculation: CP = 515, Profit = 25%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 757.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 30%. If the cost price of the goods is Rs. 520, what is the marked price (Practice Question #84)?",
+    "options": [
+      "Rs. 712",
+      "Rs. 732",
+      "Rs. 697",
+      "Rs. 747"
+    ],
+    "correctAnswer": "Rs. 712",
+    "explanation": "Marked Price (MP) calculation: CP = 520, Profit = 30%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 712.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 10%. If the cost price of the goods is Rs. 525, what is the marked price (Practice Question #85)?",
+    "options": [
+      "Rs. 642",
+      "Rs. 662",
+      "Rs. 627",
+      "Rs. 677"
+    ],
+    "correctAnswer": "Rs. 642",
+    "explanation": "Marked Price (MP) calculation: CP = 525, Profit = 10%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 642.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 15%. If the cost price of the goods is Rs. 530, what is the marked price (Practice Question #86)?",
+    "options": [
+      "Rs. 717",
+      "Rs. 737",
+      "Rs. 702",
+      "Rs. 752"
+    ],
+    "correctAnswer": "Rs. 717",
+    "explanation": "Marked Price (MP) calculation: CP = 530, Profit = 15%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 717.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 20%. If the cost price of the goods is Rs. 535, what is the marked price (Practice Question #87)?",
+    "options": [
+      "Rs. 676",
+      "Rs. 696",
+      "Rs. 661",
+      "Rs. 711"
+    ],
+    "correctAnswer": "Rs. 676",
+    "explanation": "Marked Price (MP) calculation: CP = 535, Profit = 20%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 676.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 25%. If the cost price of the goods is Rs. 540, what is the marked price (Practice Question #88)?",
+    "options": [
+      "Rs. 750",
+      "Rs. 770",
+      "Rs. 735",
+      "Rs. 785"
+    ],
+    "correctAnswer": "Rs. 750",
+    "explanation": "Marked Price (MP) calculation: CP = 540, Profit = 25%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 750.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 30%. If the cost price of the goods is Rs. 545, what is the marked price (Practice Question #89)?",
+    "options": [
+      "Rs. 834",
+      "Rs. 854",
+      "Rs. 819",
+      "Rs. 869"
+    ],
+    "correctAnswer": "Rs. 834",
+    "explanation": "Marked Price (MP) calculation: CP = 545, Profit = 30%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 834.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 10%. If the cost price of the goods is Rs. 550, what is the marked price (Practice Question #90)?",
+    "options": [
+      "Rs. 637",
+      "Rs. 657",
+      "Rs. 622",
+      "Rs. 672"
+    ],
+    "correctAnswer": "Rs. 637",
+    "explanation": "Marked Price (MP) calculation: CP = 550, Profit = 10%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 637.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 15%. If the cost price of the goods is Rs. 555, what is the marked price (Practice Question #91)?",
+    "options": [
+      "Rs. 709",
+      "Rs. 729",
+      "Rs. 694",
+      "Rs. 744"
+    ],
+    "correctAnswer": "Rs. 709",
+    "explanation": "Marked Price (MP) calculation: CP = 555, Profit = 15%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 709.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 20%. If the cost price of the goods is Rs. 560, what is the marked price (Practice Question #92)?",
+    "options": [
+      "Rs. 791",
+      "Rs. 811",
+      "Rs. 776",
+      "Rs. 826"
+    ],
+    "correctAnswer": "Rs. 791",
+    "explanation": "Marked Price (MP) calculation: CP = 560, Profit = 20%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 791.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 25%. If the cost price of the goods is Rs. 565, what is the marked price (Practice Question #93)?",
+    "options": [
+      "Rs. 743",
+      "Rs. 763",
+      "Rs. 728",
+      "Rs. 778"
+    ],
+    "correctAnswer": "Rs. 743",
+    "explanation": "Marked Price (MP) calculation: CP = 565, Profit = 25%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 743.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 30%. If the cost price of the goods is Rs. 570, what is the marked price (Practice Question #94)?",
+    "options": [
+      "Rs. 823",
+      "Rs. 843",
+      "Rs. 808",
+      "Rs. 858"
+    ],
+    "correctAnswer": "Rs. 823",
+    "explanation": "Marked Price (MP) calculation: CP = 570, Profit = 30%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 823.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 10%. If the cost price of the goods is Rs. 575, what is the marked price (Practice Question #95)?",
+    "options": [
+      "Rs. 744",
+      "Rs. 764",
+      "Rs. 729",
+      "Rs. 779"
+    ],
+    "correctAnswer": "Rs. 744",
+    "explanation": "Marked Price (MP) calculation: CP = 575, Profit = 10%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 744.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 15%. If the cost price of the goods is Rs. 580, what is the marked price (Practice Question #96)?",
+    "options": [
+      "Rs. 702",
+      "Rs. 722",
+      "Rs. 687",
+      "Rs. 737"
+    ],
+    "correctAnswer": "Rs. 702",
+    "explanation": "Marked Price (MP) calculation: CP = 580, Profit = 15%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 702.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 20%. If the cost price of the goods is Rs. 585, what is the marked price (Practice Question #97)?",
+    "options": [
+      "Rs. 780",
+      "Rs. 800",
+      "Rs. 765",
+      "Rs. 815"
+    ],
+    "correctAnswer": "Rs. 780",
+    "explanation": "Marked Price (MP) calculation: CP = 585, Profit = 20%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 780.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 15%, he makes a profit of 25%. If the cost price of the goods is Rs. 590, what is the marked price (Practice Question #98)?",
+    "options": [
+      "Rs. 868",
+      "Rs. 888",
+      "Rs. 853",
+      "Rs. 903"
+    ],
+    "correctAnswer": "Rs. 868",
+    "explanation": "Marked Price (MP) calculation: CP = 590, Profit = 25%, Discount = 15%. MP = CP * (100 + P) / (100 - D) = Rs. 868.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 5%, he makes a profit of 30%. If the cost price of the goods is Rs. 595, what is the marked price (Practice Question #99)?",
+    "options": [
+      "Rs. 814",
+      "Rs. 834",
+      "Rs. 799",
+      "Rs. 849"
+    ],
+    "correctAnswer": "Rs. 814",
+    "explanation": "Marked Price (MP) calculation: CP = 595, Profit = 30%, Discount = 5%. MP = CP * (100 + P) / (100 - D) = Rs. 814.",
+    "difficulty": "hard",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  },
+  {
+    "category": "Mathematics",
+    "questionText": "A dealer marks his goods such that after giving a discount of 10%, he makes a profit of 10%. If the cost price of the goods is Rs. 600, what is the marked price (Practice Question #100)?",
+    "options": [
+      "Rs. 733",
+      "Rs. 753",
+      "Rs. 718",
+      "Rs. 768"
+    ],
+    "correctAnswer": "Rs. 733",
+    "explanation": "Marked Price (MP) calculation: CP = 600, Profit = 10%, Discount = 10%. MP = CP * (100 + P) / (100 - D) = Rs. 733.",
+    "difficulty": "medium",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "tags": [
+      "Profit and Loss",
+      "Quant",
+      "SSC CGL"
+    ],
+    "language": "english",
+    "sourceType": "practice_generated",
+    "sourceName": "TargetRank Quant Bank",
+    "year": 2022
+  }
+]
