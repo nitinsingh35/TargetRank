@@ -1,0 +1,15 @@
+# TargetRank Backend - Render Deployment Configuration
+# This file helps Render understand how to deploy the application
+
+services:
+  - type: web
+    name: targetrank-api
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
